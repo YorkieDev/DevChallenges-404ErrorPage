@@ -8,11 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo
-    </a>
-    <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://dev-challenges-404-error-page.vercel.app/">
       Solution
     </a>
     <span> | </span>
@@ -36,11 +32,13 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/YorkieDev/DevChallenges-404ErrorPage/main/404.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+https://dev-challenges-404-error-page.vercel.app/
+
 - First ever challenge on DevChallenges.io and I found it quite helpful. The hardest bit of the challenge for me was sorting out the responsiveness of the web page so the image displays as shown in the figma document. 
 - I feel more comfortable with using media queries as well as creating responsive web pages. 
 - "Good, better, best. Never let it rest. 'Til your good is better and your better is best" - St. Jerome
@@ -68,6 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://www.yorkiedev.com)
-- GitHub [@your-username](https://{github.com/YorkieDev})
-- Twitter [@your-twitter](https://{twitter.com/yorkiedev})
+- Website [yorkiedev.com](https://www.yorkiedev.com)
+- GitHub [@YorkieDev](https://{github.com/YorkieDev})
+- Twitter [@YorkieDev](https://{twitter.com/yorkiedev})
